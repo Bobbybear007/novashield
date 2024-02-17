@@ -1133,3 +1133,1097 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.17-01.31.01:146][  1]Running Python start-up script 'D:/Engines/Unreal Engine/5.3/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.044267 secs
 [2024.02.17-01.31.01:308][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.02.17-01.31.01:717][ 10]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-01.34.07:794][632]LogDerivedDataCache: C:/Users/azamb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:18.078 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 40977 files in 41177 folders with total size 4223 MiB.
+[2024.02.17-01.34.21:873][673]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.17-01.35.07:162][712]AssetReimport: New page: Outstanding source content changes 3:35:07 am
+[2024.02.17-01.35.07:173][712]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.17-01.35.07:259][713]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1a.png)
+[2024.02.17-01.35.07:259][713]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.07:455][714]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1b.png)
+[2024.02.17-01.35.07:456][714]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.07:546][715]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1c.png)
+[2024.02.17-01.35.07:547][715]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.07:621][716]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1d.png)
+[2024.02.17-01.35.07:622][716]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.07:697][717]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1e.png)
+[2024.02.17-01.35.07:836][718]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-2a.png)
+[2024.02.17-01.35.07:837][718]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.07:917][719]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_astro-1a.png)
+[2024.02.17-01.35.07:920][719]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.07:997][720]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1a.png)
+[2024.02.17-01.35.07:999][720]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:076][721]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1b.png)
+[2024.02.17-01.35.08:077][721]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:153][722]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1c.png)
+[2024.02.17-01.35.08:154][722]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:229][723]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1d.png)
+[2024.02.17-01.35.08:231][723]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:306][724]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2a.png)
+[2024.02.17-01.35.08:307][724]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:384][725]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2b.png)
+[2024.02.17-01.35.08:385][725]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:464][726]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2c.png)
+[2024.02.17-01.35.08:464][726]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:539][727]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2d.png)
+[2024.02.17-01.35.08:540][727]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:617][728]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3a.png)
+[2024.02.17-01.35.08:618][728]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:693][729]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3b.png)
+[2024.02.17-01.35.08:694][729]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:771][730]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3c.png)
+[2024.02.17-01.35.08:772][730]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:847][731]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3d.png)
+[2024.02.17-01.35.08:849][731]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.08:931][732]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4a.png)
+[2024.02.17-01.35.08:933][732]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:014][733]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4b.png)
+[2024.02.17-01.35.09:015][733]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:090][734]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4bredalert.png)
+[2024.02.17-01.35.09:091][734]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:167][735]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4c.png)
+[2024.02.17-01.35.09:169][735]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:250][736]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5a.png)
+[2024.02.17-01.35.09:252][736]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:331][737]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5b.png)
+[2024.02.17-01.35.09:332][737]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:408][738]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5c.png)
+[2024.02.17-01.35.09:409][738]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:489][739]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6a.png)
+[2024.02.17-01.35.09:490][739]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:569][740]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6b.png)
+[2024.02.17-01.35.09:570][740]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:651][741]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6d.png)
+[2024.02.17-01.35.09:654][741]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:739][742]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7a.png)
+[2024.02.17-01.35.09:740][742]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:821][743]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7b.png)
+[2024.02.17-01.35.09:823][743]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.09:901][744]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7d.png)
+[2024.02.17-01.35.09:984][745]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8a.png)
+[2024.02.17-01.35.09:986][745]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.10:067][746]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8b.png)
+[2024.02.17-01.35.10:069][746]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.10:149][747]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8d.png)
+[2024.02.17-01.35.10:151][747]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.10:239][748]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_cargo-1a.png)
+[2024.02.17-01.35.10:321][749]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_cargo-1b.png)
+[2024.02.17-01.35.10:401][750]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_commscreen.png)
+[2024.02.17-01.35.10:406][750]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.10:487][751]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1a-borg.png)
+[2024.02.17-01.35.10:569][752]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1a.png)
+[2024.02.17-01.35.10:571][752]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.10:655][753]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1b-borg.png)
+[2024.02.17-01.35.10:743][754]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1b.png)
+[2024.02.17-01.35.10:745][754]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.10:822][755]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1c-borg.png)
+[2024.02.17-01.35.10:897][756]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1c.png)
+[2024.02.17-01.35.10:973][757]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1d-borg.png)
+[2024.02.17-01.35.11:049][758]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1d.png)
+[2024.02.17-01.35.11:050][758]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.11:133][759]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1e-borg.png)
+[2024.02.17-01.35.11:213][760]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1e.png)
+[2024.02.17-01.35.11:214][760]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.11:288][761]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1f-borg.png)
+[2024.02.17-01.35.11:365][762]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1f.png)
+[2024.02.17-01.35.11:366][762]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.11:445][763]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ff-borg.png)
+[2024.02.17-01.35.11:525][764]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ff.png)
+[2024.02.17-01.35.11:526][764]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.11:605][765]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g-borg.png)
+[2024.02.17-01.35.11:706][766]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g-destroyed.png)
+[2024.02.17-01.35.11:793][767]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g.png)
+[2024.02.17-01.35.11:796][767]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.11:872][768]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h-borg.png)
+[2024.02.17-01.35.11:956][769]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h-destroyed.png)
+[2024.02.17-01.35.12:035][770]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h.png)
+[2024.02.17-01.35.12:037][770]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.12:120][771]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i-borg.png)
+[2024.02.17-01.35.12:207][772]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i-destroyed.png)
+[2024.02.17-01.35.12:287][773]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i.png)
+[2024.02.17-01.35.12:287][773]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.12:365][774]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ii-borg.png)
+[2024.02.17-01.35.12:446][775]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1j-borg.png)
+[2024.02.17-01.35.12:524][776]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1j.png)
+[2024.02.17-01.35.12:526][776]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.12:601][777]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1k-borg.png)
+[2024.02.17-01.35.12:683][778]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1k.png)
+[2024.02.17-01.35.12:684][778]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.12:763][779]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1l-borg.png)
+[2024.02.17-01.35.12:842][780]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1l.png)
+[2024.02.17-01.35.12:843][780]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.12:917][781]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m-borg.png)
+[2024.02.17-01.35.13:008][782]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m-destroyed.png)
+[2024.02.17-01.35.13:087][783]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m.png)
+[2024.02.17-01.35.13:089][783]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.13:171][784]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1mglow.png)
+[2024.02.17-01.35.13:247][785]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1n-borg.png)
+[2024.02.17-01.35.13:331][786]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1n.png)
+[2024.02.17-01.35.13:332][786]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.13:409][787]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1nglow.png)
+[2024.02.17-01.35.13:489][788]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1o-borg.png)
+[2024.02.17-01.35.13:571][789]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1o.png)
+[2024.02.17-01.35.13:573][789]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.13:656][790]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1oglow.png)
+[2024.02.17-01.35.13:736][791]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_generic_enterprise-1a.png)
+[2024.02.17-01.35.13:739][791]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.13:814][792]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck11.png)
+[2024.02.17-01.35.13:816][792]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.13:896][793]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck16.png)
+[2024.02.17-01.35.13:898][793]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.13:980][794]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7.png)
+[2024.02.17-01.35.13:982][794]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.14:061][795]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7a.png)
+[2024.02.17-01.35.14:063][795]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.14:141][796]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7c.png)
+[2024.02.17-01.35.14:142][796]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.14:225][797]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8.png)
+[2024.02.17-01.35.14:226][797]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.14:305][798]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8a.png)
+[2024.02.17-01.35.14:307][798]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.14:394][799]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8b.png)
+[2024.02.17-01.35.14:395][799]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.14:478][800]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-1a.png)
+[2024.02.17-01.35.14:565][801]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-1b.png)
+[2024.02.17-01.35.14:645][802]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-2a.png)
+[2024.02.17-01.35.14:726][803]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-2b.png)
+[2024.02.17-01.35.14:808][804]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-3a.png)
+[2024.02.17-01.35.14:891][805]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_jtubecontrol-1a.png)
+[2024.02.17-01.35.14:893][805]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.14:977][806]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-1a.png)
+[2024.02.17-01.35.15:058][807]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-1b.png)
+[2024.02.17-01.35.15:143][808]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-2a.png)
+[2024.02.17-01.35.15:228][809]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-2b.png)
+[2024.02.17-01.35.15:317][810]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-3a.png)
+[2024.02.17-01.35.15:398][811]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1a.png)
+[2024.02.17-01.35.15:400][811]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.15:484][812]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1b.png)
+[2024.02.17-01.35.15:567][813]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1b2.png)
+[2024.02.17-01.35.15:646][814]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1c.png)
+[2024.02.17-01.35.15:646][814]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.15:724][815]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1d.png)
+[2024.02.17-01.35.15:725][815]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.15:802][816]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1e.png)
+[2024.02.17-01.35.15:804][816]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.15:880][817]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2a.png)
+[2024.02.17-01.35.15:881][817]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.15:957][818]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2b.png)
+[2024.02.17-01.35.15:957][818]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:031][819]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2c.png)
+[2024.02.17-01.35.16:032][819]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:108][820]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2d.png)
+[2024.02.17-01.35.16:108][820]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:185][821]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2e.png)
+[2024.02.17-01.35.16:185][821]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:263][822]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2f.png)
+[2024.02.17-01.35.16:264][822]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:347][823]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2g.png)
+[2024.02.17-01.35.16:349][823]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:432][824]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2h.png)
+[2024.02.17-01.35.16:433][824]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:513][825]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2i.png)
+[2024.02.17-01.35.16:513][825]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:591][826]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2j.png)
+[2024.02.17-01.35.16:591][826]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:672][827]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2k.png)
+[2024.02.17-01.35.16:672][827]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:755][828]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2l.png)
+[2024.02.17-01.35.16:755][828]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:837][829]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2m.png)
+[2024.02.17-01.35.16:837][829]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.16:917][830]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2n.png)
+[2024.02.17-01.35.16:917][830]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:002][831]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2o.png)
+[2024.02.17-01.35.17:003][831]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:082][832]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2p.png)
+[2024.02.17-01.35.17:082][832]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:165][833]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck1.png)
+[2024.02.17-01.35.17:166][833]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:250][834]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck2.png)
+[2024.02.17-01.35.17:251][834]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:336][835]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck3.png)
+[2024.02.17-01.35.17:339][835]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:426][836]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1a.png)
+[2024.02.17-01.35.17:429][836]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:513][837]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1b.png)
+[2024.02.17-01.35.17:515][837]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:599][838]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1c.png)
+[2024.02.17-01.35.17:603][838]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:690][839]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1d.png)
+[2024.02.17-01.35.17:692][839]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:774][840]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1a.png)
+[2024.02.17-01.35.17:776][840]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:858][841]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1b.png)
+[2024.02.17-01.35.17:941][842]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1c.png)
+[2024.02.17-01.35.17:942][842]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:983][843]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1d.png)
+[2024.02.17-01.35.17:984][843]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.17:996][843]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1a.png)
+[2024.02.17-01.35.17:997][843]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:011][844]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1b.png)
+[2024.02.17-01.35.18:015][844]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1c.png)
+[2024.02.17-01.35.18:016][844]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:021][844]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1red.png)
+[2024.02.17-01.35.18:025][844]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1sf.png)
+[2024.02.17-01.35.18:040][845]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1a.png)
+[2024.02.17-01.35.18:047][845]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1b.png)
+[2024.02.17-01.35.18:053][845]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1c.png)
+[2024.02.17-01.35.18:069][846]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-1a.png)
+[2024.02.17-01.35.18:070][846]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:076][846]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-1b.png)
+[2024.02.17-01.35.18:077][846]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:083][846]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-2a.png)
+[2024.02.17-01.35.18:084][846]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:101][847]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-2b.png)
+[2024.02.17-01.35.18:101][847]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:107][847]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-3a.png)
+[2024.02.17-01.35.18:108][847]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:112][847]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-3b.png)
+[2024.02.17-01.35.18:113][847]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:127][848]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-4a.png)
+[2024.02.17-01.35.18:128][848]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:134][848]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-4b.png)
+[2024.02.17-01.35.18:135][848]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:140][848]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-5a.png)
+[2024.02.17-01.35.18:142][848]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:155][849]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-5b.png)
+[2024.02.17-01.35.18:156][849]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:160][849]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-6a.png)
+[2024.02.17-01.35.18:161][849]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:166][849]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-6b.png)
+[2024.02.17-01.35.18:167][849]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:182][850]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-7a.png)
+[2024.02.17-01.35.18:183][850]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:188][850]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-7b.png)
+[2024.02.17-01.35.18:189][850]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:193][850]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-8a.png)
+[2024.02.17-01.35.18:194][850]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:208][851]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-8b.png)
+[2024.02.17-01.35.18:208][851]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:213][851]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1a.png)
+[2024.02.17-01.35.18:214][851]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:222][851]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1b.png)
+[2024.02.17-01.35.18:224][851]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:240][852]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1d.png)
+[2024.02.17-01.35.18:241][852]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:246][852]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1g.png)
+[2024.02.17-01.35.18:249][852]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:255][852]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1k.png)
+[2024.02.17-01.35.18:256][852]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:271][853]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_locker-1a.png)
+[2024.02.17-01.35.18:272][853]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:278][853]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_locker-1e.png)
+[2024.02.17-01.35.18:279][853]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.02.17-01.35.18:401][853]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-01.35.18:449][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_armory-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1a.uasset" SILENT=true
+[2024.02.17-01.35.18:455][853]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.005609 seconds
+[2024.02.17-01.35.18:463][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_armory-1a
+[2024.02.17-01.35.18:463][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_armory-1aAC40EC0045C277676BE77ABE0A941874.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1a.uasset'
+[2024.02.17-01.35.18:467][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_armory-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1b.uasset" SILENT=true
+[2024.02.17-01.35.18:477][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_armory-1b
+[2024.02.17-01.35.18:477][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_armory-1bCF88793349B14E854E72D1AE1001BDD4.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1b.uasset'
+[2024.02.17-01.35.18:482][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_armory-1c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1c.uasset" SILENT=true
+[2024.02.17-01.35.18:491][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_armory-1c
+[2024.02.17-01.35.18:491][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_armory-1cD859316F48C034240C14009C5080BF05.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1c.uasset'
+[2024.02.17-01.35.18:497][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_armory-1d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1d.uasset" SILENT=true
+[2024.02.17-01.35.18:506][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_armory-1d
+[2024.02.17-01.35.18:506][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_armory-1d0410A1874121B773475E15BBF24AAA7A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1d.uasset'
+[2024.02.17-01.35.18:511][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_armory-1e" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1e.uasset" SILENT=true
+[2024.02.17-01.35.18:517][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_armory-1e
+[2024.02.17-01.35.18:517][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_armory-1e690C2EF64B05A0839340438218041E0A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-1e.uasset'
+[2024.02.17-01.35.18:525][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_armory-2a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-2a.uasset" SILENT=true
+[2024.02.17-01.35.18:531][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_armory-2a
+[2024.02.17-01.35.18:531][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_armory-2a43F4044E4F8D957A1905028970A33005.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_armory-2a.uasset'
+[2024.02.17-01.35.18:537][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_astro-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_astro-1a.uasset" SILENT=true
+[2024.02.17-01.35.18:547][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_astro-1a
+[2024.02.17-01.35.18:547][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_astro-1a927DA4FA45300AEF3DAB9D8F7642346B.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_astro-1a.uasset'
+[2024.02.17-01.35.18:554][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1a.uasset" SILENT=true
+[2024.02.17-01.35.18:562][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-1a
+[2024.02.17-01.35.18:562][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-1a4AB2DAC4481942F765E83493DC2E9FC2.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1a.uasset'
+[2024.02.17-01.35.18:568][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1b.uasset" SILENT=true
+[2024.02.17-01.35.18:576][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-1b
+[2024.02.17-01.35.18:576][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-1b594C05A6493DA491B3DAE38C730FB245.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1b.uasset'
+[2024.02.17-01.35.18:582][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-1c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1c.uasset" SILENT=true
+[2024.02.17-01.35.18:590][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-1c
+[2024.02.17-01.35.18:590][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-1c44C0C84140D22BB88203ED8D92317DAC.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1c.uasset'
+[2024.02.17-01.35.18:596][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-1d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1d.uasset" SILENT=true
+[2024.02.17-01.35.18:607][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-1d
+[2024.02.17-01.35.18:607][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-1d0B015A744B4AFCCA679D7F9871091E18.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-1d.uasset'
+[2024.02.17-01.35.18:613][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-2a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2a.uasset" SILENT=true
+[2024.02.17-01.35.18:622][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-2a
+[2024.02.17-01.35.18:622][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-2a84560D5E4D51ADF20204BE8924795A36.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2a.uasset'
+[2024.02.17-01.35.18:628][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-2b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2b.uasset" SILENT=true
+[2024.02.17-01.35.18:637][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-2b
+[2024.02.17-01.35.18:637][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-2b3B2876EE4EB0AEE06418669C5D883682.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2b.uasset'
+[2024.02.17-01.35.18:644][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-2c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2c.uasset" SILENT=true
+[2024.02.17-01.35.18:653][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-2c
+[2024.02.17-01.35.18:653][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-2c4C015A4F4E86427B6287208AD82D864C.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2c.uasset'
+[2024.02.17-01.35.18:659][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-2d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2d.uasset" SILENT=true
+[2024.02.17-01.35.18:667][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-2d
+[2024.02.17-01.35.18:667][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-2d44E273AB4B457EA7D561E38D7554514C.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-2d.uasset'
+[2024.02.17-01.35.18:675][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-3a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3a.uasset" SILENT=true
+[2024.02.17-01.35.18:683][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-3a
+[2024.02.17-01.35.18:683][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-3a864E744647CD4D564B871DA3D5C9CF36.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3a.uasset'
+[2024.02.17-01.35.18:691][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-3b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3b.uasset" SILENT=true
+[2024.02.17-01.35.18:699][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-3b
+[2024.02.17-01.35.18:699][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-3b86FCD7554B1B9B3D8075818043ADB954.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3b.uasset'
+[2024.02.17-01.35.18:705][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-3c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3c.uasset" SILENT=true
+[2024.02.17-01.35.18:712][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-3c
+[2024.02.17-01.35.18:712][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-3cDE0DBAD34505F1AC51AAF492E5427F43.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3c.uasset'
+[2024.02.17-01.35.18:717][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-3d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3d.uasset" SILENT=true
+[2024.02.17-01.35.18:750][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-3d
+[2024.02.17-01.35.18:750][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-3d74DEE58B4939F839D1BA2580DE7E8C9D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-3d.uasset'
+[2024.02.17-01.35.18:758][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-4a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4a.uasset" SILENT=true
+[2024.02.17-01.35.18:768][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-4a
+[2024.02.17-01.35.18:768][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-4aC70289D64E09E5E6203AEE8160F6E074.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4a.uasset'
+[2024.02.17-01.35.18:819][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-4b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4b.uasset" SILENT=true
+[2024.02.17-01.35.18:861][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-4b
+[2024.02.17-01.35.18:862][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-4bCD4D2A2B49F5BBB6261497862003DD30.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4b.uasset'
+[2024.02.17-01.35.18:868][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-4bredalert" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4bredalert.uasset" SILENT=true
+[2024.02.17-01.35.18:877][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-4bredalert
+[2024.02.17-01.35.18:878][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-4bredalertF7EE5150488CB3A8859FDA99F885303D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4bredalert.uasset'
+[2024.02.17-01.35.18:888][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-4c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4c.uasset" SILENT=true
+[2024.02.17-01.35.18:899][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-4c
+[2024.02.17-01.35.18:899][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-4c4BD3148942DC5ECE31C2548741AF30ED.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-4c.uasset'
+[2024.02.17-01.35.18:906][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-5a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5a.uasset" SILENT=true
+[2024.02.17-01.35.18:915][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-5a
+[2024.02.17-01.35.18:915][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-5a005E2F344A3BBE9931ABF599A78997DB.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5a.uasset'
+[2024.02.17-01.35.18:921][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-5b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5b.uasset" SILENT=true
+[2024.02.17-01.35.18:929][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-5b
+[2024.02.17-01.35.18:929][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-5bDBF550524A66B5A61AD918835752552B.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5b.uasset'
+[2024.02.17-01.35.18:934][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-5c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5c.uasset" SILENT=true
+[2024.02.17-01.35.18:966][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-5c
+[2024.02.17-01.35.18:966][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-5c01366C204AB709B0AADE328270908236.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-5c.uasset'
+[2024.02.17-01.35.18:975][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-6a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6a.uasset" SILENT=true
+[2024.02.17-01.35.18:989][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-6a
+[2024.02.17-01.35.18:989][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-6a6EA146E64D5129900430EE8384065B9D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6a.uasset'
+[2024.02.17-01.35.18:996][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-6b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6b.uasset" SILENT=true
+[2024.02.17-01.35.19:022][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-6b
+[2024.02.17-01.35.19:022][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-6b6802A3AD4BE40C544736478D564CB9C6.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6b.uasset'
+[2024.02.17-01.35.19:050][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-6d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6d.uasset" SILENT=true
+[2024.02.17-01.35.19:066][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-6d
+[2024.02.17-01.35.19:066][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-6dF1359E49477935F9AD7236A9BF49B73F.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-6d.uasset'
+[2024.02.17-01.35.19:075][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-7a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7a.uasset" SILENT=true
+[2024.02.17-01.35.19:084][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-7a
+[2024.02.17-01.35.19:084][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-7aB8E1057344AB076642ACE5BBDCD03816.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7a.uasset'
+[2024.02.17-01.35.19:107][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-7b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7b.uasset" SILENT=true
+[2024.02.17-01.35.19:114][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-7b
+[2024.02.17-01.35.19:114][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-7b93987FDA49A5720F7F2AF098AD41DBCF.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7b.uasset'
+[2024.02.17-01.35.19:122][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-7d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7d.uasset" SILENT=true
+[2024.02.17-01.35.19:131][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-7d
+[2024.02.17-01.35.19:131][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-7d7770AF3146FAF7D0EC891C9EF93819E3.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-7d.uasset'
+[2024.02.17-01.35.19:139][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-8a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8a.uasset" SILENT=true
+[2024.02.17-01.35.19:147][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-8a
+[2024.02.17-01.35.19:147][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-8aA0A3B9BE419BF45BA06C2FBF51503044.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8a.uasset'
+[2024.02.17-01.35.19:155][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-8b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8b.uasset" SILENT=true
+[2024.02.17-01.35.19:164][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-8b
+[2024.02.17-01.35.19:164][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-8b05CED22B4D8502A57E31B8BDD65DC71F.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8b.uasset'
+[2024.02.17-01.35.19:171][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_bridge-8d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8d.uasset" SILENT=true
+[2024.02.17-01.35.19:181][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_bridge-8d
+[2024.02.17-01.35.19:181][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_bridge-8d9C63CA98490BAE6F7399CEB30174748A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_bridge-8d.uasset'
+[2024.02.17-01.35.19:188][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_cargo-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_cargo-1a.uasset" SILENT=true
+[2024.02.17-01.35.19:199][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_cargo-1a
+[2024.02.17-01.35.19:199][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_cargo-1aF6B7372E4F3D849AF4D7D0A81457F34B.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_cargo-1a.uasset'
+[2024.02.17-01.35.19:207][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_cargo-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_cargo-1b.uasset" SILENT=true
+[2024.02.17-01.35.19:218][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_cargo-1b
+[2024.02.17-01.35.19:219][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_cargo-1b846E3A0B49D53246E8C71393A889F9CD.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_cargo-1b.uasset'
+[2024.02.17-01.35.19:226][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_commscreen" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_commscreen.uasset" SILENT=true
+[2024.02.17-01.35.19:240][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_commscreen
+[2024.02.17-01.35.19:240][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_commscreen6BDC333C4B45E5673F2041BCB1936F57.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_commscreen.uasset'
+[2024.02.17-01.35.19:246][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1a-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1a-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:256][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1a-borg
+[2024.02.17-01.35.19:256][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1a-borgA9DB75B34882C8DD6074E0AEAFCAF128.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1a-borg.uasset'
+[2024.02.17-01.35.19:263][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1a.uasset" SILENT=true
+[2024.02.17-01.35.19:274][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1a
+[2024.02.17-01.35.19:274][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1a5DBFC8C741AE5795FACFC4BA8F5BBFE1.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1a.uasset'
+[2024.02.17-01.35.19:280][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1b-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1b-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:292][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1b-borg
+[2024.02.17-01.35.19:292][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1b-borg871E0FD24F86715E7921448ED16C9FD8.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1b-borg.uasset'
+[2024.02.17-01.35.19:298][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1b.uasset" SILENT=true
+[2024.02.17-01.35.19:309][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1b
+[2024.02.17-01.35.19:309][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1b5F086D574AF1F316BC5FFA9068640631.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1b.uasset'
+[2024.02.17-01.35.19:316][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1c-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1c-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:323][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1c-borg
+[2024.02.17-01.35.19:323][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1c-borgE92D454F4451C464BA177DA60F38478F.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1c-borg.uasset'
+[2024.02.17-01.35.19:330][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1c.uasset" SILENT=true
+[2024.02.17-01.35.19:339][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1c
+[2024.02.17-01.35.19:339][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1c9452CB2B402F09524639BA87941757FA.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1c.uasset'
+[2024.02.17-01.35.19:346][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1d-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1d-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:356][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1d-borg
+[2024.02.17-01.35.19:356][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1d-borgFD8B7A124E6DB340B9FF0ABAB89CD626.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1d-borg.uasset'
+[2024.02.17-01.35.19:362][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1d.uasset" SILENT=true
+[2024.02.17-01.35.19:371][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1d
+[2024.02.17-01.35.19:371][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1dD1BB8E96406922F8B5800E9A1228AE85.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1d.uasset'
+[2024.02.17-01.35.19:377][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1e-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1e-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:385][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1e-borg
+[2024.02.17-01.35.19:385][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1e-borgA90BB09543666FA555E15B88B94393E4.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1e-borg.uasset'
+[2024.02.17-01.35.19:392][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1e" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1e.uasset" SILENT=true
+[2024.02.17-01.35.19:399][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1e
+[2024.02.17-01.35.19:399][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1e107DB46D4331F276146BC684D9DA4815.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1e.uasset'
+[2024.02.17-01.35.19:407][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1f-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1f-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:417][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1f-borg
+[2024.02.17-01.35.19:417][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1f-borgEE39178848DB64961D7A27B382DE1552.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1f-borg.uasset'
+[2024.02.17-01.35.19:424][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1f" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1f.uasset" SILENT=true
+[2024.02.17-01.35.19:432][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1f
+[2024.02.17-01.35.19:432][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1f775BD523444F49E9EE1CDC995F9462A1.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1f.uasset'
+[2024.02.17-01.35.19:442][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1ff-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ff-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:449][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1ff-borg
+[2024.02.17-01.35.19:449][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1ff-borgACA7FA47418DAAB398C65BABD3868F64.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ff-borg.uasset'
+[2024.02.17-01.35.19:457][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1ff" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ff.uasset" SILENT=true
+[2024.02.17-01.35.19:466][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1ff
+[2024.02.17-01.35.19:466][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1ff6F430EDC48D48F61AD2375B5453B9E98.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ff.uasset'
+[2024.02.17-01.35.19:475][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1g-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:485][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1g-borg
+[2024.02.17-01.35.19:485][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1g-borgBB171B3C45264154F2F4808D595636E5.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g-borg.uasset'
+[2024.02.17-01.35.19:494][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1g-destroyed" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g-destroyed.uasset" SILENT=true
+[2024.02.17-01.35.19:507][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1g-destroyed
+[2024.02.17-01.35.19:507][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1g-destroyed5362AEF44F9D93E4ABDED5B862CA3DC0.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g-destroyed.uasset'
+[2024.02.17-01.35.19:514][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1g" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g.uasset" SILENT=true
+[2024.02.17-01.35.19:525][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1g
+[2024.02.17-01.35.19:525][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1g46EFD24D48E0D2ED59D5378FC8A48AE7.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1g.uasset'
+[2024.02.17-01.35.19:532][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1h-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:541][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1h-borg
+[2024.02.17-01.35.19:541][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1h-borgE014904C4B25F723A005A688DE514ADB.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h-borg.uasset'
+[2024.02.17-01.35.19:547][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1h-destroyed" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h-destroyed.uasset" SILENT=true
+[2024.02.17-01.35.19:557][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1h-destroyed
+[2024.02.17-01.35.19:557][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1h-destroyed1D3B646B42CED7F44ED44BACB1ACEE55.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h-destroyed.uasset'
+[2024.02.17-01.35.19:564][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1h" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h.uasset" SILENT=true
+[2024.02.17-01.35.19:573][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1h
+[2024.02.17-01.35.19:573][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1h69E801914E2F015F006FCE8648B1A7AA.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1h.uasset'
+[2024.02.17-01.35.19:580][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1i-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:591][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1i-borg
+[2024.02.17-01.35.19:591][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1i-borg749B22A94A3D5A751B37B8848C14BF28.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i-borg.uasset'
+[2024.02.17-01.35.19:597][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1i-destroyed" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i-destroyed.uasset" SILENT=true
+[2024.02.17-01.35.19:607][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1i-destroyed
+[2024.02.17-01.35.19:607][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1i-destroyed11A2B350477D39D7487D598A12F8E01B.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i-destroyed.uasset'
+[2024.02.17-01.35.19:614][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1i" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i.uasset" SILENT=true
+[2024.02.17-01.35.19:626][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1i
+[2024.02.17-01.35.19:626][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1i7D3AEB194A90A95D0687F9AFF6AEE465.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1i.uasset'
+[2024.02.17-01.35.19:633][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1ii-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ii-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:731][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1ii-borg
+[2024.02.17-01.35.19:731][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1ii-borg14A57EFA4508834370F107BC7E1514F7.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1ii-borg.uasset'
+[2024.02.17-01.35.19:787][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1j-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1j-borg.uasset" SILENT=true
+[2024.02.17-01.35.19:903][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1j-borg
+[2024.02.17-01.35.19:904][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1j-borg2DC3CC5D4D06E44F0CFE439A1D5FC2E5.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1j-borg.uasset'
+[2024.02.17-01.35.19:958][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1j" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1j.uasset" SILENT=true
+[2024.02.17-01.35.20:080][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1j
+[2024.02.17-01.35.20:080][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1jE38F1D2E4F35D581964FC085457C6FB2.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1j.uasset'
+[2024.02.17-01.35.20:134][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1k-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1k-borg.uasset" SILENT=true
+[2024.02.17-01.35.20:254][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1k-borg
+[2024.02.17-01.35.20:254][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1k-borgC06123FC4BAB7DC14C8B5E90448D145B.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1k-borg.uasset'
+[2024.02.17-01.35.20:307][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1k" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1k.uasset" SILENT=true
+[2024.02.17-01.35.20:431][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1k
+[2024.02.17-01.35.20:431][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1kA365A46E486D2431C07F03A9ACF0501F.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1k.uasset'
+[2024.02.17-01.35.20:484][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1l-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1l-borg.uasset" SILENT=true
+[2024.02.17-01.35.20:600][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1l-borg
+[2024.02.17-01.35.20:600][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1l-borg26CD609642F60998536DCEA6A5E707E2.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1l-borg.uasset'
+[2024.02.17-01.35.20:660][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1l" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1l.uasset" SILENT=true
+[2024.02.17-01.35.20:781][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1l
+[2024.02.17-01.35.20:782][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1lD8F6688043CC05A3021E2C927A1786EE.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1l.uasset'
+[2024.02.17-01.35.20:837][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1m-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m-borg.uasset" SILENT=true
+[2024.02.17-01.35.20:979][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1m-borg
+[2024.02.17-01.35.20:980][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1m-borg4D3669CF4B07D330E0121991054FD40E.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m-borg.uasset'
+[2024.02.17-01.35.21:043][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1m-destroyed" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m-destroyed.uasset" SILENT=true
+[2024.02.17-01.35.21:191][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1m-destroyed
+[2024.02.17-01.35.21:191][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1m-destroyed3C199ED047C5C05A418B3AB37670096C.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m-destroyed.uasset'
+[2024.02.17-01.35.21:267][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1m" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m.uasset" SILENT=true
+[2024.02.17-01.35.21:424][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1m
+[2024.02.17-01.35.21:425][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1mD6E716F74A90644002FBA0B436E28A13.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1m.uasset'
+[2024.02.17-01.35.21:495][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1mglow" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1mglow.uasset" SILENT=true
+[2024.02.17-01.35.21:644][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1mglow
+[2024.02.17-01.35.21:644][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1mglow5E3B9D894AF3BAF46340DBB3034911CB.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1mglow.uasset'
+[2024.02.17-01.35.21:709][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1n-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1n-borg.uasset" SILENT=true
+[2024.02.17-01.35.21:863][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1n-borg
+[2024.02.17-01.35.21:864][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1n-borgF2CAB1E44A9BFD5316FED6AA9C5E621A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1n-borg.uasset'
+[2024.02.17-01.35.21:930][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1n" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1n.uasset" SILENT=true
+[2024.02.17-01.35.22:092][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1n
+[2024.02.17-01.35.22:092][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1n8EBF455B4A3912199B4EFE8296AD63E6.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1n.uasset'
+[2024.02.17-01.35.22:163][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1nglow" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1nglow.uasset" SILENT=true
+[2024.02.17-01.35.22:331][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1nglow
+[2024.02.17-01.35.22:331][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1nglow98B4696C47D8250F1527A1BD1CB9E53E.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1nglow.uasset'
+[2024.02.17-01.35.22:406][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1o-borg" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1o-borg.uasset" SILENT=true
+[2024.02.17-01.35.22:581][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1o-borg
+[2024.02.17-01.35.22:581][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1o-borgB9E5B6C348022FCA2B4003B1255F7952.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1o-borg.uasset'
+[2024.02.17-01.35.22:655][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1o" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1o.uasset" SILENT=true
+[2024.02.17-01.35.22:825][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1o
+[2024.02.17-01.35.22:825][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1o843E0D6E496A20A50DCB97B3E94916BD.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1o.uasset'
+[2024.02.17-01.35.22:901][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_engineering-1oglow" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1oglow.uasset" SILENT=true
+[2024.02.17-01.35.23:074][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_engineering-1oglow
+[2024.02.17-01.35.23:074][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_engineering-1oglow98AB4FED4A2A0502876801BA3D39C6BB.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_engineering-1oglow.uasset'
+[2024.02.17-01.35.23:147][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_generic_enterprise-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_generic_enterprise-1a.uasset" SILENT=true
+[2024.02.17-01.35.23:314][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_generic_enterprise-1a
+[2024.02.17-01.35.23:314][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_generic_enterprise-1a70ECE4D246550598D9C6BBBB19290932.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_generic_enterprise-1a.uasset'
+[2024.02.17-01.35.23:394][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_hall-deck11" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck11.uasset" SILENT=true
+[2024.02.17-01.35.23:571][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_hall-deck11
+[2024.02.17-01.35.23:571][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_hall-deck11F1BCB271414EFDC4BCD470A94BBBC6A0.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck11.uasset'
+[2024.02.17-01.35.23:649][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_hall-deck16" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck16.uasset" SILENT=true
+[2024.02.17-01.35.23:831][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_hall-deck16
+[2024.02.17-01.35.23:831][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_hall-deck16CEAE1B9D4CF8A7C675E3A883DA571FE7.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck16.uasset'
+[2024.02.17-01.35.23:909][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_hall-deck7" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7.uasset" SILENT=true
+[2024.02.17-01.35.24:089][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_hall-deck7
+[2024.02.17-01.35.24:089][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_hall-deck7A29A3A7C44A9DB0DD9FA8FAAD92D738D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7.uasset'
+[2024.02.17-01.35.24:168][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_hall-deck7a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7a.uasset" SILENT=true
+[2024.02.17-01.35.24:339][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_hall-deck7a
+[2024.02.17-01.35.24:339][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_hall-deck7a828CC42C4E95C8E69C3081B311EC3738.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7a.uasset'
+[2024.02.17-01.35.24:413][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_hall-deck7c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7c.uasset" SILENT=true
+[2024.02.17-01.35.24:590][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_hall-deck7c
+[2024.02.17-01.35.24:590][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_hall-deck7c8E483F8B4B8DC2EB1373548DA5C38CEB.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck7c.uasset'
+[2024.02.17-01.35.24:668][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_hall-deck8" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8.uasset" SILENT=true
+[2024.02.17-01.35.24:842][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_hall-deck8
+[2024.02.17-01.35.24:842][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_hall-deck82D46CAAD47D790421AB1B682879AE42F.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8.uasset'
+[2024.02.17-01.35.24:926][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_hall-deck8a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8a.uasset" SILENT=true
+[2024.02.17-01.35.25:102][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_hall-deck8a
+[2024.02.17-01.35.25:102][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_hall-deck8aF5407232494CC354D6557EAAF0E715BF.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8a.uasset'
+[2024.02.17-01.35.25:192][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_hall-deck8b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8b.uasset" SILENT=true
+[2024.02.17-01.35.25:384][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_hall-deck8b
+[2024.02.17-01.35.25:384][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_hall-deck8b1B04D3B940DC5087F1E98281BDCF94FF.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_hall-deck8b.uasset'
+[2024.02.17-01.35.25:466][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_haz-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-1a.uasset" SILENT=true
+[2024.02.17-01.35.25:642][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_haz-1a
+[2024.02.17-01.35.25:642][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_haz-1a5563FDD347287D1C6D67128EC77228B4.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-1a.uasset'
+[2024.02.17-01.35.25:715][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_haz-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-1b.uasset" SILENT=true
+[2024.02.17-01.35.25:883][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_haz-1b
+[2024.02.17-01.35.25:883][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_haz-1b5A89FB8E41B93B01046D78952807D841.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-1b.uasset'
+[2024.02.17-01.35.25:957][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_haz-2a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-2a.uasset" SILENT=true
+[2024.02.17-01.35.26:131][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_haz-2a
+[2024.02.17-01.35.26:131][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_haz-2a9B130E574B83866D49C0539A4F48DF6B.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-2a.uasset'
+[2024.02.17-01.35.26:207][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_haz-2b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-2b.uasset" SILENT=true
+[2024.02.17-01.35.26:382][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_haz-2b
+[2024.02.17-01.35.26:382][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_haz-2b7EBF69D3463D5D0470ACEAAD7FDAC424.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-2b.uasset'
+[2024.02.17-01.35.26:452][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_haz-3a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-3a.uasset" SILENT=true
+[2024.02.17-01.35.26:625][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_haz-3a
+[2024.02.17-01.35.26:625][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_haz-3a7D08971D47C9844C163F61A433E9F5CD.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_haz-3a.uasset'
+[2024.02.17-01.35.26:694][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_jtubecontrol-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_jtubecontrol-1a.uasset" SILENT=true
+[2024.02.17-01.35.26:872][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_jtubecontrol-1a
+[2024.02.17-01.35.26:872][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_jtubecontrol-1aC11DB11B4DD846F92CDD06968F9AD6E7.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_jtubecontrol-1a.uasset'
+[2024.02.17-01.35.26:946][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_libary-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-1a.uasset" SILENT=true
+[2024.02.17-01.35.27:130][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_libary-1a
+[2024.02.17-01.35.27:130][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_libary-1a5DB8EB394C4E9A5899AD4381278D2A41.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-1a.uasset'
+[2024.02.17-01.35.27:207][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_libary-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-1b.uasset" SILENT=true
+[2024.02.17-01.35.27:381][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_libary-1b
+[2024.02.17-01.35.27:381][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_libary-1b8504E1EA43C0D48DF710E698D621972D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-1b.uasset'
+[2024.02.17-01.35.27:454][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_libary-2a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-2a.uasset" SILENT=true
+[2024.02.17-01.35.27:636][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_libary-2a
+[2024.02.17-01.35.27:636][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_libary-2aC6C599B04A60622102576E836935B29A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-2a.uasset'
+[2024.02.17-01.35.27:710][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_libary-2b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-2b.uasset" SILENT=true
+[2024.02.17-01.35.27:882][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_libary-2b
+[2024.02.17-01.35.27:883][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_libary-2bF793E253420760E936BABD80803DB767.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-2b.uasset'
+[2024.02.17-01.35.27:962][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_libary-3a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-3a.uasset" SILENT=true
+[2024.02.17-01.35.28:134][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_libary-3a
+[2024.02.17-01.35.28:134][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_libary-3a33C1DABD44DBA43A2BBB6C9249F4C851.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_libary-3a.uasset'
+[2024.02.17-01.35.28:209][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1a.uasset" SILENT=true
+[2024.02.17-01.35.28:380][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-1a
+[2024.02.17-01.35.28:380][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-1a60C8AB05478743E23001228C3A420FE3.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1a.uasset'
+[2024.02.17-01.35.28:459][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1b.uasset" SILENT=true
+[2024.02.17-01.35.28:641][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-1b
+[2024.02.17-01.35.28:641][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-1b44CB9C344521BF770C9015BC4D924AD3.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1b.uasset'
+[2024.02.17-01.35.28:714][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-1b2" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1b2.uasset" SILENT=true
+[2024.02.17-01.35.28:904][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-1b2
+[2024.02.17-01.35.28:904][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-1b293ED35E2411E835C2E0C65A9503790ED.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1b2.uasset'
+[2024.02.17-01.35.28:980][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-1c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1c.uasset" SILENT=true
+[2024.02.17-01.35.29:147][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-1c
+[2024.02.17-01.35.29:147][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-1cF6926AA1484C3B175B36798DCDA2F241.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1c.uasset'
+[2024.02.17-01.35.29:227][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-1d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1d.uasset" SILENT=true
+[2024.02.17-01.35.29:395][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-1d
+[2024.02.17-01.35.29:396][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-1dC8F54F664708CD5AC3B6F0BD4A3A39F0.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1d.uasset'
+[2024.02.17-01.35.29:467][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-1e" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1e.uasset" SILENT=true
+[2024.02.17-01.35.29:650][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-1e
+[2024.02.17-01.35.29:650][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-1eE96625994E1F5E6CCC0D7A86AE75D255.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-1e.uasset'
+[2024.02.17-01.35.29:725][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2a.uasset" SILENT=true
+[2024.02.17-01.35.29:893][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2a
+[2024.02.17-01.35.29:893][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2a71785A6642C2F1BBBB53C69AC4605311.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2a.uasset'
+[2024.02.17-01.35.29:964][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2b.uasset" SILENT=true
+[2024.02.17-01.35.30:130][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2b
+[2024.02.17-01.35.30:130][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2bEC6F482348CCEFEE1863C590C4F2ED0D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2b.uasset'
+[2024.02.17-01.35.30:209][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2c.uasset" SILENT=true
+[2024.02.17-01.35.30:377][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2c
+[2024.02.17-01.35.30:377][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2c6A2A66C8488D9B00B9EAD9AFBE59B0BE.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2c.uasset'
+[2024.02.17-01.35.30:450][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2d.uasset" SILENT=true
+[2024.02.17-01.35.30:627][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2d
+[2024.02.17-01.35.30:627][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2d956A051541A16E05CE93FFBABA790044.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2d.uasset'
+[2024.02.17-01.35.30:718][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2e" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2e.uasset" SILENT=true
+[2024.02.17-01.35.30:897][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2e
+[2024.02.17-01.35.30:897][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2e6B140DE645811C171F6828A9D9368C2E.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2e.uasset'
+[2024.02.17-01.35.30:974][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2f" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2f.uasset" SILENT=true
+[2024.02.17-01.35.31:147][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2f
+[2024.02.17-01.35.31:147][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2fB47CF5B04331D3ACFB3918B8C14AE45A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2f.uasset'
+[2024.02.17-01.35.31:225][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2g" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2g.uasset" SILENT=true
+[2024.02.17-01.35.31:391][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2g
+[2024.02.17-01.35.31:391][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2gF951105F4CB2FC00067563A95E87E528.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2g.uasset'
+[2024.02.17-01.35.31:466][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2h" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2h.uasset" SILENT=true
+[2024.02.17-01.35.31:635][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2h
+[2024.02.17-01.35.31:635][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2h3DC948C645787D1BEBCF7FBBFED648CE.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2h.uasset'
+[2024.02.17-01.35.31:712][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2i" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2i.uasset" SILENT=true
+[2024.02.17-01.35.31:882][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2i
+[2024.02.17-01.35.31:882][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2i5E9C7C4E4B61B08D76CE709279D4BED4.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2i.uasset'
+[2024.02.17-01.35.31:954][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2j" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2j.uasset" SILENT=true
+[2024.02.17-01.35.32:120][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2j
+[2024.02.17-01.35.32:120][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2j4D960C2F4ADEE76078B5B4A58342EDBF.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2j.uasset'
+[2024.02.17-01.35.32:192][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2k" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2k.uasset" SILENT=true
+[2024.02.17-01.35.32:362][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2k
+[2024.02.17-01.35.32:362][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2k6FD9B0BB420CBC753418DEB8188F4F3D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2k.uasset'
+[2024.02.17-01.35.32:444][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2l" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2l.uasset" SILENT=true
+[2024.02.17-01.35.32:612][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2l
+[2024.02.17-01.35.32:612][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2lC034B0B64A1EA02BE9AE279426E80714.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2l.uasset'
+[2024.02.17-01.35.32:685][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2m" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2m.uasset" SILENT=true
+[2024.02.17-01.35.32:847][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2m
+[2024.02.17-01.35.32:849][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2mB795C9EE441BA1827DDFABBAA4126D0F.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2m.uasset'
+[2024.02.17-01.35.32:926][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2n" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2n.uasset" SILENT=true
+[2024.02.17-01.35.33:089][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2n
+[2024.02.17-01.35.33:089][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2nE007E39F41CEBF2F5BFC57B6AE6BA7F1.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2n.uasset'
+[2024.02.17-01.35.33:163][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2o" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2o.uasset" SILENT=true
+[2024.02.17-01.35.33:330][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2o
+[2024.02.17-01.35.33:330][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2o9F43D3264CF11000849A52AA82B732B9.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2o.uasset'
+[2024.02.17-01.35.33:404][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_locker-2p" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2p.uasset" SILENT=true
+[2024.02.17-01.35.33:576][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_locker-2p
+[2024.02.17-01.35.33:576][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_locker-2p07FEBC2145C18470701530AC096AE728.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_locker-2p.uasset'
+[2024.02.17-01.35.33:655][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_obdeck1" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck1.uasset" SILENT=true
+[2024.02.17-01.35.33:822][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_obdeck1
+[2024.02.17-01.35.33:822][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_obdeck1970C0260431246722E1AB08BA0264817.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck1.uasset'
+[2024.02.17-01.35.33:902][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_obdeck2" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck2.uasset" SILENT=true
+[2024.02.17-01.35.34:079][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_obdeck2
+[2024.02.17-01.35.34:079][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_obdeck2B983CA474D11E63094561AB1B819E2CF.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck2.uasset'
+[2024.02.17-01.35.34:151][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_obdeck3" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck3.uasset" SILENT=true
+[2024.02.17-01.35.34:325][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_obdeck3
+[2024.02.17-01.35.34:326][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_obdeck38D2482C042A99115A63CB9A62FC59A57.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_obdeck3.uasset'
+[2024.02.17-01.35.34:404][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_sickbay-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1a.uasset" SILENT=true
+[2024.02.17-01.35.34:583][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_sickbay-1a
+[2024.02.17-01.35.34:583][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_sickbay-1aE7909EAF48CA889A8261A9BE80B49746.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1a.uasset'
+[2024.02.17-01.35.34:658][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_sickbay-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1b.uasset" SILENT=true
+[2024.02.17-01.35.34:839][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_sickbay-1b
+[2024.02.17-01.35.34:839][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_sickbay-1bAC0A0E634114C163D7FF5FACEC48BB5D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1b.uasset'
+[2024.02.17-01.35.34:911][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_sickbay-1c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1c.uasset" SILENT=true
+[2024.02.17-01.35.35:099][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_sickbay-1c
+[2024.02.17-01.35.35:099][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_sickbay-1cAE28C1384FB1D135C8B8E3B3365B6AA2.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1c.uasset'
+[2024.02.17-01.35.35:183][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_sickbay-1d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1d.uasset" SILENT=true
+[2024.02.17-01.35.35:359][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_sickbay-1d
+[2024.02.17-01.35.35:359][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_sickbay-1d06F48E8F4F2A65B39EF6AC93BBDEC53A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_sickbay-1d.uasset'
+[2024.02.17-01.35.35:442][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_transporter-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1a.uasset" SILENT=true
+[2024.02.17-01.35.35:614][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_transporter-1a
+[2024.02.17-01.35.35:615][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_transporter-1a91EECD3D425F2783CA3954A6D7418047.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1a.uasset'
+[2024.02.17-01.35.35:685][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_transporter-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1b.uasset" SILENT=true
+[2024.02.17-01.35.35:859][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_transporter-1b
+[2024.02.17-01.35.35:859][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_transporter-1bE4787D124FBC3F245A3690AD0CFC28EB.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1b.uasset'
+[2024.02.17-01.35.35:933][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_transporter-1c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1c.uasset" SILENT=true
+[2024.02.17-01.35.36:098][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_transporter-1c
+[2024.02.17-01.35.36:098][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_transporter-1cC118BE21403235B70D03EA90A96A2005.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1c.uasset'
+[2024.02.17-01.35.36:169][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_transporter-1d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1d.uasset" SILENT=true
+[2024.02.17-01.35.36:346][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_transporter-1d
+[2024.02.17-01.35.36:346][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_transporter-1d2EDC4E1F4AA4E6A743A53CA7A0A44BCC.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_transporter-1d.uasset'
+[2024.02.17-01.35.36:425][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_turbolift-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1a.uasset" SILENT=true
+[2024.02.17-01.35.36:437][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_turbolift-1a
+[2024.02.17-01.35.36:438][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_turbolift-1aA8798F4741EFC53EB64F9A9F1510EF76.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1a.uasset'
+[2024.02.17-01.35.36:446][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_turbolift-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1b.uasset" SILENT=true
+[2024.02.17-01.35.36:451][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_turbolift-1b
+[2024.02.17-01.35.36:451][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_turbolift-1b7EFACA28404B091E1C8EC59147E1D562.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1b.uasset'
+[2024.02.17-01.35.36:465][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_turbolift-1c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1c.uasset" SILENT=true
+[2024.02.17-01.35.36:473][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_turbolift-1c
+[2024.02.17-01.35.36:473][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_turbolift-1c6D7B0459419EE0456B562C823DC0A26A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1c.uasset'
+[2024.02.17-01.35.36:483][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_turbolift-1red" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1red.uasset" SILENT=true
+[2024.02.17-01.35.36:491][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_turbolift-1red
+[2024.02.17-01.35.36:491][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_turbolift-1red728D30E84654DA24A9E010A9ADB76FDF.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1red.uasset'
+[2024.02.17-01.35.36:497][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_turbolift-1sf" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1sf.uasset" SILENT=true
+[2024.02.17-01.35.36:507][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_turbolift-1sf
+[2024.02.17-01.35.36:507][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_turbolift-1sf28EA414A4329CD5A20E603BC3E412FBE.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_turbolift-1sf.uasset'
+[2024.02.17-01.35.36:516][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_voy_transporter_1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1a.uasset" SILENT=true
+[2024.02.17-01.35.36:527][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_voy_transporter_1a
+[2024.02.17-01.35.36:527][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_voy_transporter_1a9B0FC551484F6DEAEF3C71B590F9644C.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1a.uasset'
+[2024.02.17-01.35.36:541][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_voy_transporter_1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1b.uasset" SILENT=true
+[2024.02.17-01.35.36:551][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_voy_transporter_1b
+[2024.02.17-01.35.36:551][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_voy_transporter_1b5BA1699143455435118B0DAAEA408290.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1b.uasset'
+[2024.02.17-01.35.36:564][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/lcars_voy_transporter_1c" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1c.uasset" SILENT=true
+[2024.02.17-01.35.36:575][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/lcars_voy_transporter_1c
+[2024.02.17-01.35.36:575][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/lcars_voy_transporter_1c156C04764F481B94B431E098D66E37D9.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/lcars_voy_transporter_1c.uasset'
+[2024.02.17-01.35.36:584][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-1a.uasset" SILENT=true
+[2024.02.17-01.35.36:595][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-1a
+[2024.02.17-01.35.36:595][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-1a4081F00441A2D5FD59D17699F1261003.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-1a.uasset'
+[2024.02.17-01.35.36:602][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-1b.uasset" SILENT=true
+[2024.02.17-01.35.36:610][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-1b
+[2024.02.17-01.35.36:610][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-1b46D1D347448FABD42F9EBABE17F74EF1.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-1b.uasset'
+[2024.02.17-01.35.36:620][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-2a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-2a.uasset" SILENT=true
+[2024.02.17-01.35.36:629][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-2a
+[2024.02.17-01.35.36:629][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-2aD1915C404A37906AC5ABCDAEBE3BF8B3.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-2a.uasset'
+[2024.02.17-01.35.36:644][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-2b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-2b.uasset" SILENT=true
+[2024.02.17-01.35.36:652][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-2b
+[2024.02.17-01.35.36:653][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-2b400E15E746EB2BAAFD65DAB05E09352D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-2b.uasset'
+[2024.02.17-01.35.36:666][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-3a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-3a.uasset" SILENT=true
+[2024.02.17-01.35.36:676][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-3a
+[2024.02.17-01.35.36:676][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-3aC24040544037BECBDA6C8CBEA2C45982.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-3a.uasset'
+[2024.02.17-01.35.36:683][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-3b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-3b.uasset" SILENT=true
+[2024.02.17-01.35.36:691][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-3b
+[2024.02.17-01.35.36:691][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-3bF54C83DD48E4685342DB088AF18D2F3A.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-3b.uasset'
+[2024.02.17-01.35.36:699][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-4a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-4a.uasset" SILENT=true
+[2024.02.17-01.35.36:708][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-4a
+[2024.02.17-01.35.36:708][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-4a1BC1EE2B4E9CB583963A288F3651DA30.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-4a.uasset'
+[2024.02.17-01.35.36:717][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-4b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-4b.uasset" SILENT=true
+[2024.02.17-01.35.36:725][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-4b
+[2024.02.17-01.35.36:725][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-4b838364244D03C44D5653A7AE2D39CAA3.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-4b.uasset'
+[2024.02.17-01.35.36:733][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-5a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-5a.uasset" SILENT=true
+[2024.02.17-01.35.36:743][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-5a
+[2024.02.17-01.35.36:744][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-5a230DF42947014D5429D0D580D4D9366B.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-5a.uasset'
+[2024.02.17-01.35.36:751][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-5b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-5b.uasset" SILENT=true
+[2024.02.17-01.35.36:767][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-5b
+[2024.02.17-01.35.36:767][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-5b5717FF484FE2734CCA0DF384A529EE94.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-5b.uasset'
+[2024.02.17-01.35.36:777][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-6a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-6a.uasset" SILENT=true
+[2024.02.17-01.35.36:784][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-6a
+[2024.02.17-01.35.36:785][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-6aA2E86FE94AFC79A7DCFE04843D0F8264.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-6a.uasset'
+[2024.02.17-01.35.36:793][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-6b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-6b.uasset" SILENT=true
+[2024.02.17-01.35.36:800][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-6b
+[2024.02.17-01.35.36:800][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-6bCCE93ACA4CABE9C49F6A2D815DA0ED3D.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-6b.uasset'
+[2024.02.17-01.35.36:809][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-7a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-7a.uasset" SILENT=true
+[2024.02.17-01.35.36:817][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-7a
+[2024.02.17-01.35.36:817][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-7aA0D1B9C74311515C534C5F9E22935266.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-7a.uasset'
+[2024.02.17-01.35.36:826][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-7b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-7b.uasset" SILENT=true
+[2024.02.17-01.35.36:833][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-7b
+[2024.02.17-01.35.36:834][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-7b0D2354384419A1A94ECC68B765601C75.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-7b.uasset'
+[2024.02.17-01.35.36:843][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-8a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-8a.uasset" SILENT=true
+[2024.02.17-01.35.36:852][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-8a
+[2024.02.17-01.35.36:852][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-8a45CCD4084E9E9D60046D7691DD391858.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-8a.uasset'
+[2024.02.17-01.35.36:860][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_bridge-8b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-8b.uasset" SILENT=true
+[2024.02.17-01.35.36:869][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_bridge-8b
+[2024.02.17-01.35.36:869][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_bridge-8b89872BF1425D5752845FACBEED1316CE.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_bridge-8b.uasset'
+[2024.02.17-01.35.36:883][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_engineering-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1a.uasset" SILENT=true
+[2024.02.17-01.35.36:893][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_engineering-1a
+[2024.02.17-01.35.36:893][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_engineering-1a663172A140BB049AD02C29AE535C9D10.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1a.uasset'
+[2024.02.17-01.35.36:901][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_engineering-1b" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1b.uasset" SILENT=true
+[2024.02.17-01.35.36:912][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_engineering-1b
+[2024.02.17-01.35.36:912][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_engineering-1b4FDCC90C4113DB32434A8895B8F093A4.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1b.uasset'
+[2024.02.17-01.35.36:925][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_engineering-1d" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1d.uasset" SILENT=true
+[2024.02.17-01.35.36:943][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_engineering-1d
+[2024.02.17-01.35.36:943][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_engineering-1d6269204B4CC8DA66DA532C8DA8A95343.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1d.uasset'
+[2024.02.17-01.35.36:952][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_engineering-1g" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1g.uasset" SILENT=true
+[2024.02.17-01.35.36:963][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_engineering-1g
+[2024.02.17-01.35.36:963][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_engineering-1g2DCB293446C81E31EB00DB8A97750980.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1g.uasset'
+[2024.02.17-01.35.36:975][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_engineering-1k" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1k.uasset" SILENT=true
+[2024.02.17-01.35.36:983][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_engineering-1k
+[2024.02.17-01.35.36:983][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_engineering-1k00468634414E79D5B8B3CF845C1DA161.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_engineering-1k.uasset'
+[2024.02.17-01.35.36:993][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_locker-1a" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_locker-1a.uasset" SILENT=true
+[2024.02.17-01.35.37:001][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_locker-1a
+[2024.02.17-01.35.37:001][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_locker-1a7247311B4BCCF1DD74E754A86EA450AE.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_locker-1a.uasset'
+[2024.02.17-01.35.37:011][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lcars/STEFII/vlcars_locker-1e" FILE="Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_locker-1e.uasset" SILENT=true
+[2024.02.17-01.35.37:020][853]LogSavePackage: Moving output files for package: /Game/Lcars/STEFII/vlcars_locker-1e
+[2024.02.17-01.35.37:020][853]LogSavePackage: Moving 'Y:/GitHub Repos/novashield/STEF_UE_Project/Saved/vlcars_locker-1e716BCA6447CA68161E7B0AA703F1AD8F.tmp' to 'Y:/GitHub Repos/novashield/STEF_UE_Project/Content/Lcars/STEFII/vlcars_locker-1e.uasset'
+[2024.02.17-01.35.37:105][853]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.7 sec
+[2024.02.17-01.35.37:129][854]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_armory-1a.lcars_armory-1a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_armory-1b.lcars_armory-1b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_armory-1c.lcars_armory-1c
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_armory-1d.lcars_armory-1d
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_armory-1e.lcars_armory-1e
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_armory-2a.lcars_armory-2a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_astro-1a.lcars_astro-1a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-1a.lcars_bridge-1a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-1b.lcars_bridge-1b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-1c.lcars_bridge-1c
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-1d.lcars_bridge-1d
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-2a.lcars_bridge-2a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-2b.lcars_bridge-2b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-2c.lcars_bridge-2c
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-2d.lcars_bridge-2d
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-3a.lcars_bridge-3a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-3b.lcars_bridge-3b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-3c.lcars_bridge-3c
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-3d.lcars_bridge-3d
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-4a.lcars_bridge-4a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-4b.lcars_bridge-4b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-4bredalert.lcars_bridge-4bredalert
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-4c.lcars_bridge-4c
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-5a.lcars_bridge-5a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-5b.lcars_bridge-5b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-5c.lcars_bridge-5c
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-6a.lcars_bridge-6a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-6b.lcars_bridge-6b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-6d.lcars_bridge-6d
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-7a.lcars_bridge-7a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-7b.lcars_bridge-7b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-7d.lcars_bridge-7d
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-8a.lcars_bridge-8a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-8b.lcars_bridge-8b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_bridge-8d.lcars_bridge-8d
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_cargo-1a.lcars_cargo-1a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_cargo-1b.lcars_cargo-1b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_commscreen.lcars_commscreen
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1a-borg.lcars_engineering-1a-borg
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1a.lcars_engineering-1a
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1b-borg.lcars_engineering-1b-borg
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1b.lcars_engineering-1b
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1c-borg.lcars_engineering-1c-borg
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1c.lcars_engineering-1c
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1d-borg.lcars_engineering-1d-borg
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1d.lcars_engineering-1d
+[2024.02.17-01.35.37:129][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1e-borg.lcars_engineering-1e-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1e.lcars_engineering-1e
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1f-borg.lcars_engineering-1f-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1f.lcars_engineering-1f
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1ff-borg.lcars_engineering-1ff-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1ff.lcars_engineering-1ff
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1g-borg.lcars_engineering-1g-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1g-destroyed.lcars_engineering-1g-destroyed
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1g.lcars_engineering-1g
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1h-borg.lcars_engineering-1h-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1h-destroyed.lcars_engineering-1h-destroyed
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1h.lcars_engineering-1h
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1i-borg.lcars_engineering-1i-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1i-destroyed.lcars_engineering-1i-destroyed
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1i.lcars_engineering-1i
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1ii-borg.lcars_engineering-1ii-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1j-borg.lcars_engineering-1j-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1j.lcars_engineering-1j
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1k-borg.lcars_engineering-1k-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1k.lcars_engineering-1k
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1l-borg.lcars_engineering-1l-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1l.lcars_engineering-1l
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1m-borg.lcars_engineering-1m-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1m-destroyed.lcars_engineering-1m-destroyed
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1m.lcars_engineering-1m
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1mglow.lcars_engineering-1mglow
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1n-borg.lcars_engineering-1n-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1n.lcars_engineering-1n
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1nglow.lcars_engineering-1nglow
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1o-borg.lcars_engineering-1o-borg
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1o.lcars_engineering-1o
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_engineering-1oglow.lcars_engineering-1oglow
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_generic_enterprise-1a.lcars_generic_enterprise-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_hall-deck11.lcars_hall-deck11
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_hall-deck16.lcars_hall-deck16
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_hall-deck7.lcars_hall-deck7
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_hall-deck7a.lcars_hall-deck7a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_hall-deck7c.lcars_hall-deck7c
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_hall-deck8.lcars_hall-deck8
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_hall-deck8a.lcars_hall-deck8a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_hall-deck8b.lcars_hall-deck8b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_haz-1a.lcars_haz-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_haz-1b.lcars_haz-1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_haz-2a.lcars_haz-2a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_haz-2b.lcars_haz-2b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_haz-3a.lcars_haz-3a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_jtubecontrol-1a.lcars_jtubecontrol-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_libary-1a.lcars_libary-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_libary-1b.lcars_libary-1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_libary-2a.lcars_libary-2a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_libary-2b.lcars_libary-2b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_libary-3a.lcars_libary-3a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-1a.lcars_locker-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-1b.lcars_locker-1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-1b2.lcars_locker-1b2
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-1c.lcars_locker-1c
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-1d.lcars_locker-1d
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-1e.lcars_locker-1e
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2a.lcars_locker-2a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2b.lcars_locker-2b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2c.lcars_locker-2c
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2d.lcars_locker-2d
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2e.lcars_locker-2e
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2f.lcars_locker-2f
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2g.lcars_locker-2g
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2h.lcars_locker-2h
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2i.lcars_locker-2i
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2j.lcars_locker-2j
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2k.lcars_locker-2k
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2l.lcars_locker-2l
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2m.lcars_locker-2m
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2n.lcars_locker-2n
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2o.lcars_locker-2o
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_locker-2p.lcars_locker-2p
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_obdeck1.lcars_obdeck1
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_obdeck2.lcars_obdeck2
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_obdeck3.lcars_obdeck3
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_sickbay-1a.lcars_sickbay-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_sickbay-1b.lcars_sickbay-1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_sickbay-1c.lcars_sickbay-1c
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_sickbay-1d.lcars_sickbay-1d
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_transporter-1a.lcars_transporter-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_transporter-1b.lcars_transporter-1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_transporter-1c.lcars_transporter-1c
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_transporter-1d.lcars_transporter-1d
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_turbolift-1a.lcars_turbolift-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_turbolift-1b.lcars_turbolift-1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_turbolift-1c.lcars_turbolift-1c
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_turbolift-1red.lcars_turbolift-1red
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_turbolift-1sf.lcars_turbolift-1sf
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_voy_transporter_1a.lcars_voy_transporter_1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_voy_transporter_1b.lcars_voy_transporter_1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/lcars_voy_transporter_1c.lcars_voy_transporter_1c
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-1a.vlcars_bridge-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-1b.vlcars_bridge-1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-2a.vlcars_bridge-2a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-2b.vlcars_bridge-2b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-3a.vlcars_bridge-3a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-3b.vlcars_bridge-3b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-4a.vlcars_bridge-4a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-4b.vlcars_bridge-4b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-5a.vlcars_bridge-5a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-5b.vlcars_bridge-5b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-6a.vlcars_bridge-6a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-6b.vlcars_bridge-6b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-7a.vlcars_bridge-7a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-7b.vlcars_bridge-7b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-8a.vlcars_bridge-8a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_bridge-8b.vlcars_bridge-8b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_engineering-1a.vlcars_engineering-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_engineering-1b.vlcars_engineering-1b
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_engineering-1d.vlcars_engineering-1d
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_engineering-1g.vlcars_engineering-1g
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_engineering-1k.vlcars_engineering-1k
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_locker-1a.vlcars_locker-1a
+[2024.02.17-01.35.37:130][854]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Lcars/STEFII/vlcars_locker-1e.vlcars_locker-1e
+[2024.02.17-01.35.40:110][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_armory-1a.
+[2024.02.17-01.35.40:110][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_armory-1b.
+[2024.02.17-01.35.40:110][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_armory-1c.
+[2024.02.17-01.35.40:110][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_armory-1d.
+[2024.02.17-01.35.40:110][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_armory-1e.
+[2024.02.17-01.35.40:110][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_armory-2a.
+[2024.02.17-01.35.40:110][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_astro-1a.
+[2024.02.17-01.35.40:110][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-1a.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-1b.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-1c.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-1d.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-2a.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-2b.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-2c.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-2d.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-3a.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-3b.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-3c.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-3d.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-4a.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-4b.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-4bredalert.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-4c.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-5a.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-5b.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-5c.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-6a.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-6b.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-6d.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-7a.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-7b.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-7d.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-8a.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-8b.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_bridge-8d.
+[2024.02.17-01.35.40:111][ 91]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_cargo-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_cargo-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_commscreen.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1a-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1b-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1c-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1c.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1d-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1d.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1e-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1e.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1f-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1f.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1ff-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1ff.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1g-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1g-destroyed.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1g.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1h-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1h-destroyed.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1h.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1i-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1i-destroyed.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1i.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1ii-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1j-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1j.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1k-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1k.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1l-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1l.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1m-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1m-destroyed.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1m.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1mglow.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1n-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1n.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1nglow.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1o-borg.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1o.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_engineering-1oglow.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_generic_enterprise-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_hall-deck11.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_hall-deck16.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_hall-deck7.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_hall-deck7a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_hall-deck7c.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_hall-deck8.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_hall-deck8a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_hall-deck8b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_haz-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_haz-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_haz-2a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_haz-2b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_haz-3a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_jtubecontrol-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_libary-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_libary-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_libary-2a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_libary-2b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_libary-3a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-1b2.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-1c.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-1d.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-1e.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2c.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2d.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2e.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2f.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2g.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2h.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2i.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2j.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2k.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2l.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2m.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2n.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2o.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_locker-2p.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_obdeck1.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_obdeck2.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_obdeck3.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_sickbay-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_sickbay-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_sickbay-1c.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_sickbay-1d.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_transporter-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_transporter-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_transporter-1c.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_transporter-1d.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_turbolift-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_turbolift-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_turbolift-1c.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_turbolift-1red.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_turbolift-1sf.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_voy_transporter_1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_voy_transporter_1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/lcars_voy_transporter_1c.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-1a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-1b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-2a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-2b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-3a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-3b.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-4a.
+[2024.02.17-01.35.40:111][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-4b.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-5a.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-5b.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-6a.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-6b.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-7a.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-7b.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-8a.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_bridge-8b.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_engineering-1a.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_engineering-1b.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_engineering-1d.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_engineering-1g.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_engineering-1k.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_locker-1a.
+[2024.02.17-01.35.40:112][ 92]AssetReimport: Importing new asset /Game/Lcars/STEFII/vlcars_locker-1e.
